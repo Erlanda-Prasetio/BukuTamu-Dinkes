@@ -1,9 +1,9 @@
 export default function Footer() {
   return (
     <footer className="mt-auto">
-      <div className="bg-gray-800 text-white py-8">
+      <div className="bg-gray-800 text-white py-16">
         <div className="max-w-7xl mx-auto px-4 text-center">
-          <h3 className="text-lg font-semibold mb-4 zalando-sans">
+          <h3 className="text-lg font-weight:bold mb-4 zalando-sans">
             DINAS KESEHATAN KABUPATEN TEGAL
           </h3>
           <p className="text-sm mb-2 zalando-sans">
